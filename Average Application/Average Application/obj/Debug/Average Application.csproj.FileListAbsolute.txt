@@ -1,0 +1,15 @@
+H:\C# work\WINDOW FORM\Average Application\Average Application\bin\Debug\Average Application.exe.config
+H:\C# work\WINDOW FORM\Average Application\Average Application\bin\Debug\Average Application.exe
+H:\C# work\WINDOW FORM\Average Application\Average Application\bin\Debug\Average Application.pdb
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average Application.csprojAssemblyReference.cache
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\MainWindow.g.cs
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\App.g.cs
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average Application_MarkupCompile.cache
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average Application_MarkupCompile.lref
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\MainWindow.baml
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average Application.g.resources
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average_Application.Properties.Resources.resources
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average Application.csproj.GenerateResource.cache
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average Application.csproj.CoreCompileInputs.cache
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average Application.exe
+H:\C# work\WINDOW FORM\Average Application\Average Application\obj\Debug\Average Application.pdb
